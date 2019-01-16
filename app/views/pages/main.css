@@ -1,0 +1,27 @@
+.head{
+  color: white;
+}
+body{
+  background: linear-gradient(purple, blue);
+	font-family: helvetica;
+	font: italic;
+  color: white;
+}
+
+.navbar{
+  color: white;
+  border: navy;
+}
+.navbar ul{
+  padding:0;
+  list-style: none;
+}
+.navbar li{
+  display: inline;
+}
+.navbar a{
+  color:#fff;
+  text-decoration: none;
+  font-size: 18px;
+  padding-right: 15px;
+}
