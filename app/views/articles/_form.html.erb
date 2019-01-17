@@ -1,4 +1,9 @@
-
+<div class="navbar">
+  <ul>
+    <li><%= link_to 'Home', pages_home_path %></li>
+    <li><%= link_to 'Articles List', articles_path %></li>
+  </ul>
+</div>
 <% if @article.errors.any? %>
 <h2>The following errors prevented the article from getting created.</h2>
 <ul>
@@ -21,6 +26,3 @@
       <%= form.submit %>
     </p>
 <% end %>
-<p>
-<%= link_to "Back to articles page", articles_path %>
-</p>

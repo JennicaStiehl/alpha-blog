@@ -1,26 +1,26 @@
-.head{
-  color: white;
-}
+
 body{
-  background: linear-gradient(purple, blue);
 	font-family: helvetica;
 	font: italic;
-  color: white;
+  color: navy;
+  
 }
-
+a{
+  color: navy;
+}
 .navbar{
-  color: white;
-  border: navy;
+  color:white;
+  background-color:navy;
 }
 .navbar ul{
-  padding:0;
+  padding:1%;
   list-style: none;
 }
 .navbar li{
   display: inline;
 }
 .navbar a{
-  color:#fff;
+  color:white;
   text-decoration: none;
   font-size: 18px;
   padding-right: 15px;
