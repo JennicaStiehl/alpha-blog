@@ -1,11 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://tasks-manager-stiehl.herokuapp.com/
+https://git.heroku.com/tasks-manager-stiehl.git
 
-Things you may want to cover:
+https://guarded-thicket-77544.herokuapp.com/ | https://git.heroku.com/guarded-thicket-77544.git
 
-* Ruby version
+* Ruby version 2.4.1
 
 * System dependencies
 
